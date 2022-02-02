@@ -1,0 +1,68 @@
+{
+    "key_1": {
+        "type": "string",
+        "tag": "user",
+        "description": "id",
+        "required": false
+    },
+    "key_2": {
+        "type": "string",
+        "tag": "user",
+        "description": "nickname",
+        "required": false
+    },
+    "key_3": {
+        "type": "string",
+        "tag": "user",
+        "description": "title",
+        "required": false
+    },
+    "key_4": {
+        "type": "string",
+        "tag": "user",
+        "description": "accountType",
+        "required": false
+    },
+    "key_5": {
+        "type": "string",
+        "tag": "user",
+        "description": "countryCode",
+        "required": false
+    },
+    "key_6": {
+        "type": "string",
+        "tag": "user",
+        "description": "orientation",
+        "required": false
+    },
+    "key_7": {
+        "type": "integer",
+        "tag": "time",
+        "description": "orientation",
+        "required": false
+    },
+    "key_8": {
+        "type": "String",
+        "tag": "acl",
+        "description": "orientation",
+        "required": false
+    },
+    "key_9": {
+        "type": "string",
+        "tag": "publicFeed",
+        "description": "orientation",
+        "required": false
+    },
+    "key_10": {
+        "type": "enum",
+        "tag": "internationalCountries",
+        "description": "orientation",
+        "required": false
+    },
+    "key_11": {
+        "type": "string",
+        "tag": "topTraderFeed",
+        "description": "orientation",
+        "required": false
+    }
+}

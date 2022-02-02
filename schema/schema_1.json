@@ -1,0 +1,104 @@
+{
+    "key_1": {
+        "type": "string",
+        "tag": "battle",
+        "description": "id",
+        "required": false
+    },
+    "key_2": {
+        "type": "string",
+        "tag": "battle",
+        "description": "name",
+        "required": false
+    },
+    "key_3": {
+        "type": "string",
+        "tag": "battle",
+        "description": "orientation",
+        "required": false
+    },
+    "key_4": {
+        "type": "string",
+        "tag": "battle",
+        "description": "settings",
+        "required": false
+    },
+    "key_5": {
+        "type": "string",
+        "tag": "battle",
+        "description": "status",
+        "required": false
+    },
+    "key_6": {
+        "type": "integer",
+        "tag": "battle",
+        "description": "creationTime",
+        "required": false
+    },
+    "key_7": {
+        "type": "integer",
+        "tag": "battle",
+        "description": "startTime",
+        "required": false
+    },
+    "key_8": {
+        "type": "integer",
+        "tag": "battle",
+        "description": "endTime",
+        "required": false
+    },
+    "key_9": {
+        "type": "string",
+        "tag": "battle",
+        "description": "creator",
+        "required": false
+    },
+    "key_10": {
+        "type": "enumarray",
+        "tag": "battle",
+        "description": "battle",
+        "required": false
+    },
+    "key_11": {
+        "type": "string",
+        "tag": "joiner",
+        "description": "id",
+        "required": false
+    },
+    "key_12": {
+        "type": "string",
+        "tag": "joiner",
+        "description": "nickname",
+        "required": false
+    },
+    "key_13": {
+        "type": "string",
+        "tag": "joiner",
+        "description": "title",
+        "required": false
+    },
+    "key_14": {
+        "type": "string",
+        "tag": "joiner",
+        "description": "accountType",
+        "required": false
+    },
+    "key_15": {
+        "type": "string",
+        "tag": "joiner",
+        "description": "countryCode",
+        "required": false
+    },
+    "key_16": {
+        "type": "string",
+        "tag": "joiner",
+        "description": "orientation",
+        "required": false
+    },
+    "key_17": {
+        "type": "enum",
+        "tag": "participantIds",
+        "description": "orientation",
+        "required": false
+    }
+}
